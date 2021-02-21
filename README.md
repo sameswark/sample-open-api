@@ -1,1 +1,1 @@
-# sample-open-api
+# sample-rest-api-example
